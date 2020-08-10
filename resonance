@@ -1,11 +1,8 @@
-[{
-	"Math": [{
-		"circle": "url1"
-	}, {
-		"trignometry": "url2"
-	}]
-}, {
-	"chemistry": [{
-		"Atom": "url4"
-	}]
-}]
+{
+	"version": "0.01",
+	"clients": [
+		["resonance", "resonance logo url", "resonance content url", "resonance password"],
+		["fitjee", "fitjee logo url", "fitjee content url", "fitjee password"]
+	]
+
+}
