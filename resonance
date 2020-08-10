@@ -1,8 +1,7 @@
 {
 	"version": "0.01",
 	"clients": [
-		["resonance", "resonance logo url", "resonance content url", "resonance password"],
-		["fitjee", "fitjee logo url", "fitjee content url", "fitjee password"]
+		["resonance", "https://d24cdstip7q8pz.cloudfront.net/t/t20170803140920/content/common/images/Copy%20(1)%20of%20Logo%20Black.png", "resonance content url"],
+		["fitjee", "https://i.ytimg.com/vi/FUV3ZtI8XA8/maxresdefault.jpg", "fitjee content url"]
 	]
-
 }
