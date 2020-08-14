@@ -1,0 +1,13 @@
+{
+	"math": {
+		"circle": "url1",
+		"trignometry": "url2"
+	},
+	"chemistry": {
+		"atom": "url4"
+	},
+	"physics": {
+		"light": "url5",
+		"refraction": "url6"
+	}
+}
