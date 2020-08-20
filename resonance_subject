@@ -1,13 +1,13 @@
 {
 	"math": {
 		"circle": "https://raw.githubusercontent.com/anurag1619/content/master/circle",
-		"trignometry": "url2"
+		"trignometry": "https://raw.githubusercontent.com/anurag1619/content/master/circle"
 	},
 	"chemistry": {
-		"atom": "url4"
+		"atom": "https://raw.githubusercontent.com/anurag1619/content/master/circle"
 	},
 	"physics": {
-		"light": "url5",
-		"refraction": "url6"
+		"light": "https://raw.githubusercontent.com/anurag1619/content/master/circle",
+		"refraction": "https://raw.githubusercontent.com/anurag1619/content/master/circle"
 	}
 }
