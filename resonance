@@ -1,7 +1,7 @@
 {
 	"version": "0.001",
 	"clients": [
-		["resonance", "https://d24cdstip7q8pz.cloudfront.net/t/t20170803140920/content/common/images/Copy%20(1)%20of%20Logo%20Black.png", "https://raw.githubusercontent.com/anurag1619/content/master/resonance_subject"],
-		["fitjee", "https://i.ytimg.com/vi/FUV3ZtI8XA8/maxresdefault.jpg", "https://raw.githubusercontent.com/anurag1619/content/master/resonance_subject"]
+		["resonance", "https://d24cdstip7q8pz.cloudfront.net/t/t20170803140920/content/common/images/Copy%20(1)%20of%20Logo%20Black.png", "https://raw.githubusercontent.com/anurag1619/content/master/resonance_subects"],
+		["fitjee", "https://i.ytimg.com/vi/FUV3ZtI8XA8/maxresdefault.jpg", "https://raw.githubusercontent.com/anurag1619/content/master/resonance_subects"]
 	]
 }
